@@ -1,0 +1,8 @@
+1. Paso se ejecuta el codigo de ejemplo el ESP32 CAM en la carpeta ESP32 CAM, eso nos permite habilitar el stream de la camera del esp en un servidor HTTP.
+2. se sube el codigo del esp8266 a un esp8266 \ESP8266_ResponseLv2 y de manera subsecuente onectar los pines a las puesnte H como indica el codigo.
+3. Activar el archivo \Proyectov2\v5/main3.py modificando las ips de acuerdo con la IP dinamica que le salio nel esp32 y nel esp8266.
+4. listo su autito ya esta fucnionando.
+
+OBS: Los otros codigo fueron pruebas hechas anterioemnte para el funcionamiento del auto(si desea lo puede consultar para mirar el progreso o irrelevar Tambien).
+
+Autoria: Gabriel Matheus Janco de Freitas
